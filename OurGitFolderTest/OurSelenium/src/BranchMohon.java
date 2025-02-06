@@ -1,5 +1,5 @@
 
-public class BranchMohon {
+public class BranchPijush {
 
 	public static void main(String[] args) {
 		System.out.println("I am Pijush");
